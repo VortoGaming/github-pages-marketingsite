@@ -4888,3 +4888,11 @@ li {
   -ms-grid-row-span: 1;
   grid-row-end: span 1;
 }
+
+.vorto-phone-number {
+  display: inline-block;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  text-decoration: none;
+  color: grey;
+}
